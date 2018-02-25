@@ -1,5 +1,4 @@
-# OS181
-ZCZC Sistem Operasi 2018 Awal (1)
+# ZCZC Sistem Operasi Week 02
 ZCZC Sistem Operasi Week 01
 1. a01-READ-ME
    Menampilkan daftar command line
