@@ -1,2 +1,2 @@
-# ZCZC Sistem Operasi Week 07
+# ZCZC Sistem Operasi Week 06
 
